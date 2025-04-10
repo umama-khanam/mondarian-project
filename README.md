@@ -10,6 +10,7 @@ A responsive art project inspired by the iconic abstract style of Piet Mondrian.
 - Fully responsive layout using CSS Grid and Flexbox
 - Mondrian-style aesthetic with bold black lines and primary colors
 - Clean, minimal structure — perfect for learning layout fundamentals
+- preview https://github.com/umama-khanam/mondarian-project/blob/main/mondrian%20preview.png
 
 ## 🛠️ Built With
 
